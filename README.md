@@ -88,15 +88,9 @@ git clone https://github.com/SamySierraDV/AluraLatam-Conversor-de-monedas.git
 
 ---
 
-## 📸 Capturas paso a paso
-
-> *(Agrega aquí screenshots del menú, conversión y archivo JSON generado)*
-
----
-
 ## 🤝 Créditos
 
-Desarrollado por **Samy Suarez** como parte del challenge
+Desarrollado por **Samy Sierra Suarez** como parte del challenge
 **Oracle Next Education (ONE) G9 – Back End** con Alura Latam. [[3](https://github.com/FARNIKS/Conversor-de-moneda)]
 
 ---
