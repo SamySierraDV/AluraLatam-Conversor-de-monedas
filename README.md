@@ -74,7 +74,7 @@ Almacena tasa de cambio y monto resultante. Expone los métodos:
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/ChayChaio/challenge-conversor-monedas.git
+git clone https://github.com/SamySierraDV/AluraLatam-Conversor-de-monedas.git
 
 # 2. Abre el proyecto en IntelliJ IDEA
 
