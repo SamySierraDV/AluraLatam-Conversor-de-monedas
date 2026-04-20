@@ -30,9 +30,12 @@
 conversor-monedas/
 │
 ├── src/
-│   ├── Main.java               # Punto de entrada, menú interactivo y flujo principal
-│   ├── ConsultaApi.java        # Conexión HTTP a la API de divisas
-│   ├── ResultadoDelCambio.java # Record: almacena tasa y monto convertido
+│   
+├── Main.java               # Punto de entrada, menú interactivo y flujo principal
+│   
+├── ConsultaApi.java        # Conexión HTTP a la API de divisas
+│   
+├── ResultadoDelCambio.java # Record: almacena tasa y monto convertido
 │   └── GeneradorDeJson.java    # Serialización y escritura del historial JSON
 │
 └── README.md
