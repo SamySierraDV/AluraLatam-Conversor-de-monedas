@@ -1,3 +1,4 @@
+<img width="5211" height="3441" alt="diagram" src="https://github.com/user-attachments/assets/f73c96b8-64de-4182-a6f9-8ebc179a1708" />
 
  💱 Conversor de Monedas
 
