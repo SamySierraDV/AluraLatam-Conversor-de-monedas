@@ -220,4 +220,4 @@ AluraLatam-Conversor-de-monedas/
 Proyecto desarrollado por **Samy Sierra Suárez** como parte de la formación **Oracle Next Education (ONE) G9 – Java & Back-End** en alianza con **Alura Latam**.
 
 * GitHub: [@SamySierraDV](https://github.com/SamySierraDV)
-* LinkedIn: [Samy Sierra](www.linkedin.com/in/samy-sierra-dev)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samy-sierra-dev)
